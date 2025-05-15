@@ -9,8 +9,9 @@ fun main(){
 
     val name= "Kochi"
     println(name)
+    print('c')
 
-    print('c'
+    println("test github")
         //
 
 }
